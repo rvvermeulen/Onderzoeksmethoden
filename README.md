@@ -1,1 +1,1 @@
-# OnderzoeksmethodenGit
+# Onderzoeksmethoden
